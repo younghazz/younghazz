@@ -5,7 +5,7 @@
 
 #### Projects
 
-- Analysis of Nav2 with Focus on the DWA Algorithm
+- Analysis of Nav2 with Focus on the DWA Algorithm [repo](https://github.com/younghazz/icd-2024-spring)
 
 #### Certificates
 
