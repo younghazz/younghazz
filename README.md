@@ -7,6 +7,12 @@
 
 - [Analysis of Nav2 with Focus on the DWA Algorithm](https://github.com/younghazz/icd-2024-spring)
 
+#### Language
+
+- 🇰🇷 Korean (Native)
+- 🇺🇸 English
+- 🇯🇵 Japanese
+
 #### Certificates
 
 - 🇰🇷 Engineer Information Processing (정보처리기사)
