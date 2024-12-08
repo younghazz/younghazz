@@ -1,1 +1,1 @@
-![wallpaper](asset/wallpaper.png)
+<img src="asset/wallpaper.png" alt="wallpaper" width="200" />
