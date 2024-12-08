@@ -1,9 +1,9 @@
-### Programming Skills
+#### Programming Skills
 
 - Frontend: React, React Native
 - Backend: Django
 
-### Certificates
+#### Certificates
 
 - 🇰🇷 Engineer Information Processing
 - 🇰🇷 Engineer Big Data Analysis
