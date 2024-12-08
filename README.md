@@ -1,3 +1,5 @@
+- Language: Korean (Native) / English / Japanese
+
 #### Programming Skills
 
 - React / React Native
@@ -6,12 +8,6 @@
 #### Projects
 
 - [Analysis of Nav2 with Focus on the DWA Algorithm](https://github.com/younghazz/icd-2024-spring)
-
-#### Language
-
-- 🇰🇷 Korean (Native)
-- 🇺🇸 English
-- 🇯🇵 Japanese
 
 #### Certificates
 
