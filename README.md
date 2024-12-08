@@ -1,1 +1,1 @@
-<img src="asset/wallpaper.png" alt="wallpaper" width="400" />
+<img src="asset/wallpaper.png" alt="wallpaper" width="600" />
