@@ -2,7 +2,7 @@
 
 - React / React Native
 - Django / Spring Boot (Java)
-- [![solved.ac profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=younghazz)](https://solved.ac/younghazz)
+- [solved.ac Silver III](https://solved.ac/profile/younghazz)
 
 #### Projects
 
