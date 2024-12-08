@@ -1,7 +1,6 @@
 #### Programming Skills
 
-- Frontend: React, React Native
-- Backend: Django
+- React / React Native / Django
 
 #### Certificates
 
