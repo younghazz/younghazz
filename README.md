@@ -6,3 +6,5 @@
 ### Certificates
 
 - 🇰🇷 Engineer Information Processing
+- 🇰🇷 Engineer Big Data Analysis
+- 🇰🇷 SQL Developer
