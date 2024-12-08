@@ -2,7 +2,7 @@
 
 - React / React Native
 - Django / Spring Boot (Java)
-- [solved.ac Silver III](https://solved.ac/profile/younghazz) (C++)
+- [solved.ac](https://solved.ac/profile/younghazz) <span style="color: navy">Silver III</span> (C++)
 
 #### Projects
 
