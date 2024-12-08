@@ -5,6 +5,12 @@
 
 #### Projects
 
+##### Web / Mobile
+
+##### AI
+
+##### Others
+
 - [Analysis of Nav2 with Focus on the DWA Algorithm](https://github.com/younghazz/icd-2024-spring)
 
 #### Language
