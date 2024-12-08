@@ -1,6 +1,7 @@
 #### Programming Skills
 
-- React / React Native / Django
+- React / React Native
+- Django / Spring Boot (Java)
 
 #### Certificates
 
