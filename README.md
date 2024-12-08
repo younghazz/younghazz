@@ -2,7 +2,7 @@
 
 - React / React Native
 - Django / Spring Boot (Java)
-- [solved.ac](https://solved.ac/profile/younghazz) Silver III (C++)
+- solved.ac Silver III (C++) -> [profile](https://solved.ac/profile/younghazz)
 
 [![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=younghazz)](https://solved.ac/younghazz)
 
