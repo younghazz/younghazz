@@ -12,9 +12,9 @@
 
 #### Languages
 
-- Korean (Native)
-- English (Conversational)
-- Japanese (Conversational)
+- 🇰🇷 Korean (Native)
+- 🇺🇸 English
+- 🇯🇵 Japanese
 
 #### Certificates
 
