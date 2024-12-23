@@ -2,7 +2,7 @@
 
 - React / React Native
 - Django / Spring Boot (Java)
-- [solved.ac](https://solved.ac/profile/younghazz) Silver I (C++)
+- [solved.ac](https://solved.ac/profile/younghazz) Gold V (C++)
 
 [![solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=younghazz)](https://solved.ac/younghazz)
 
