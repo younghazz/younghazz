@@ -1,3 +1,7 @@
+#### Interested in
+
+- Computer Vision
+
 #### Programming Skills
 
 - React / React Native
